@@ -86,7 +86,7 @@ Each routing decision includes a short explanation describing *why* the claim wa
 
 ## 📂 Project Structure
 
-```text
+``text
 insurance-claims-agent/
 ├── main.py
 ├── utils/
@@ -100,16 +100,9 @@ insurance-claims-agent/
 ├── requirements.txt
 └── README.md
 
-
-
-
 ---
-
-## 🚀 How to Run the Project
-
-### 1️⃣ Install dependencies
-
-```bash
+🚀 How to Run the Project
+1️⃣ Install dependencies
 pip install -r requirements.txt
 2️⃣ Run the application
 python main.py
