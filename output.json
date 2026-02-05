@@ -1,0 +1,20 @@
+{
+  "extractedFields": {
+    "policy_number": "POL12345",
+    "policyholder_name": "John Doe",
+    "effective_dates": null,
+    "date_of_loss": "12/01/2026",
+    "time_of_loss": "14:30",
+    "location": "Hyderabad, India",
+    "description": "Rear-end collision, vehicle damaged.",
+    "asset_type": "vehicle",
+    "asset_id": "VIN987654",
+    "estimated_damage": 18000,
+    "claim_type": "vehicle",
+    "attachments": "no",
+    "initial_estimate": 18000
+  },
+  "missingFields": [],
+  "recommendedRoute": "Fast-track",
+  "reasoning": "Estimated damage below threshold for fast-track processing"
+}

@@ -1,0 +1,8 @@
+Policy Number: POL12345
+Name of Insured: John Doe
+Date of Loss: 12/01/2026
+Time: 14:30
+Location of Loss: Hyderabad, India
+Description: Rear-end collision, vehicle damaged.
+Estimate Amount: 18000
+Vehicle VIN: VIN987654
