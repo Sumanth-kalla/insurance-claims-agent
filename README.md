@@ -86,6 +86,7 @@ Each routing decision includes a short explanation describing *why* the claim wa
 
 ## 📂 Project Structure
 
+```text
 insurance-claims-agent/
 ├── main.py
 ├── utils/
