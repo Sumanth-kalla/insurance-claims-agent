@@ -83,24 +83,6 @@ The following rules are applied **in priority order**:
 Each routing decision includes a short explanation describing *why* the claim was routed.
 
 ---
-
-## 📂 Project Structure
-
-``text
-insurance-claims-agent/
-├── main.py
-├── utils/
-│   ├── pdf_reader.py
-│   ├── field_extractor.py
-│   └── router.py
-├── sample_fnol/
-│   ├── sample1.txt
-│   └── sample2.txt
-├── output.json
-├── requirements.txt
-└── README.md
-
----
 🚀 How to Run the Project
 1️⃣ Install dependencies
 pip install -r requirements.txt
@@ -145,3 +127,19 @@ Designed for local execution and easy review
 🧑‍💻 Author
 Sumanth Kalla
 Junior Software Developer Candidate
+## 📂 Project Structure
+
+```text
+insurance-claims-agent/
+├── main.py
+├── utils/
+│   ├── pdf_reader.py
+│   ├── field_extractor.py
+│   └── router.py
+├── sample_fnol/
+│   ├── sample1.txt
+│   └── sample2.txt
+├── output.json
+├── requirements.txt
+└── README.md
+
