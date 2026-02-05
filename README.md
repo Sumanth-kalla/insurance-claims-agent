@@ -89,15 +89,17 @@ Each routing decision includes a short explanation describing *why* the claim wa
 insurance-claims-agent/
 ├── main.py
 ├── utils/
-│ ├── pdf_reader.py
-│ ├── field_extractor.py
-│ └── router.py
+│   ├── pdf_reader.py
+│   ├── field_extractor.py
+│   └── router.py
 ├── sample_fnol/
-│ ├── sample1.txt
-│ └── sample2.txt
+│   ├── sample1.txt
+│   └── sample2.txt
 ├── output.json
 ├── requirements.txt
 └── README.md
+
+
 
 
 ---
